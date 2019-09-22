@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 13d1c644dfd0c0e42b71d61b79ed082f
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Armature.001
+    100004: Armature.002
+    100006: Armature.003
+    100008: Armature.004
+    100010: Armature.005
+    100012: Armature.006
+    100014: Armature.007
+    100016: Bone
+    100018: Bone 1
+    100020: Bone 2
+    100022: Bone 3
+    100024: Bone 4
+    100026: Bone 5
+    100028: Bone 6
+    100030: Bone 7
+    100032: Bone.001
+    100034: Bone.001 1
+    100036: Bone.001 2
+    100038: Bone.001 3
+    100040: Bone.001 4
+    100042: Bone.001 5
+    100044: Bone.001 6
+    100046: Bone.001 7
+    100048: Bone.001_end
+    100050: Bone.001_end 1
+    100052: Bone.001_end 2
+    100054: Bone.001_end 3
+    100056: Bone.001_end 4
+    100058: Bone.001_end 5
+    100060: Bone.001_end 6
+    100062: Bone.001_end 7
+    100064: corn
+    100066: //RootNode
+    100068: corn.001
+    100070: corn.002
+    100072: corn.003
+    100074: corn.004
+    100076: corn.005
+    100078: corn.006
+    100080: corn.007
+    400000: Armature
+    400002: Armature.001
+    400004: Armature.002
+    400006: Armature.003
+    400008: Armature.004
+    400010: Armature.005
+    400012: Armature.006
+    400014: Armature.007
+    400016: Bone
+    400018: Bone 1
+    400020: Bone 2
+    400022: Bone 3
+    400024: Bone 4
+    400026: Bone 5
+    400028: Bone 6
+    400030: Bone 7
+    400032: Bone.001
+    400034: Bone.001 1
+    400036: Bone.001 2
+    400038: Bone.001 3
+    400040: Bone.001 4
+    400042: Bone.001 5
+    400044: Bone.001 6
+    400046: Bone.001 7
+    400048: Bone.001_end
+    400050: Bone.001_end 1
+    400052: Bone.001_end 2
+    400054: Bone.001_end 3
+    400056: Bone.001_end 4
+    400058: Bone.001_end 5
+    400060: Bone.001_end 6
+    400062: Bone.001_end 7
+    400064: corn
+    400066: //RootNode
+    400068: corn.001
+    400070: corn.002
+    400072: corn.003
+    400074: corn.004
+    400076: corn.005
+    400078: corn.006
+    400080: corn.007
+    2100000: corn leaf cartoony
+    4300000: corn.002
+    4300002: corn.003
+    4300004: corn.007
+    4300006: corn
+    4300008: corn.005
+    4300010: corn.006
+    4300012: corn.004
+    4300014: corn.001
+    7400000: wind 1
+    7400002: Armature|ArmatureAction
+    7400004: Armature|wind 1
+    7400006: Armature.001|ArmatureAction
+    7400008: Armature.001|wind 1
+    7400010: Armature.002|ArmatureAction
+    7400012: Armature.002|wind 1
+    7400014: Armature.003|ArmatureAction
+    7400016: Armature.003|wind 1
+    7400018: Armature.004|ArmatureAction
+    7400020: Armature.004|wind 1
+    7400022: Armature.005|ArmatureAction
+    7400024: Armature.005|wind 1
+    7400026: Armature.006|ArmatureAction
+    7400028: Armature.006|wind 1
+    7400030: Armature.007|ArmatureAction
+    7400032: Armature.007|wind 1
+    9500000: //RootNode
+    13700000: corn
+    13700002: corn.001
+    13700004: corn.002
+    13700006: corn.003
+    13700008: corn.004
+    13700010: corn.005
+    13700012: corn.006
+    13700014: corn.007
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: corn leaf cartoony
+    second: {fileID: 2100000, guid: 9110595e31f4c064eb82a69c50b9622d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
