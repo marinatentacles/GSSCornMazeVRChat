@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 91697c48880ab064cb50b2a44a8635df
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ai pai
+    100002: anna
+    100004: becca
+    100006: cakeman
+    100008: cheryl
+    100010: chips
+    100012: cidd
+    100014: fyrus
+    100016: googie
+    100018: heal
+    100020: //RootNode
+    100022: kollan
+    100024: liffeh
+    100026: maid
+    100028: mar
+    100030: metabee
+    100032: sentinel
+    100034: smoothie
+    100036: spats
+    100038: tuz
+    100040: vixx
+    100042: zone
+    400000: ai pai
+    400002: anna
+    400004: becca
+    400006: cakeman
+    400008: cheryl
+    400010: chips
+    400012: cidd
+    400014: fyrus
+    400016: googie
+    400018: heal
+    400020: //RootNode
+    400022: kollan
+    400024: liffeh
+    400026: maid
+    400028: mar
+    400030: metabee
+    400032: sentinel
+    400034: smoothie
+    400036: spats
+    400038: tuz
+    400040: vixx
+    400042: zone
+    2100000: Material.001
+    2300000: ai pai
+    2300002: anna
+    2300004: becca
+    2300006: cakeman
+    2300008: cheryl
+    2300010: chips
+    2300012: cidd
+    2300014: fyrus
+    2300016: googie
+    2300018: heal
+    2300020: kollan
+    2300022: liffeh
+    2300024: maid
+    2300026: mar
+    2300028: metabee
+    2300030: sentinel
+    2300032: smoothie
+    2300034: spats
+    2300036: tuz
+    2300038: vixx
+    2300040: zone
+    3300000: ai pai
+    3300002: anna
+    3300004: becca
+    3300006: cakeman
+    3300008: cheryl
+    3300010: chips
+    3300012: cidd
+    3300014: fyrus
+    3300016: googie
+    3300018: heal
+    3300020: kollan
+    3300022: liffeh
+    3300024: maid
+    3300026: mar
+    3300028: metabee
+    3300030: sentinel
+    3300032: smoothie
+    3300034: spats
+    3300036: tuz
+    3300038: vixx
+    3300040: zone
+    4300000: ai pai
+    4300002: kollan
+    4300004: heal
+    4300006: liffeh
+    4300008: anna
+    4300010: spats
+    4300012: cakeman
+    4300014: cidd
+    4300016: maid
+    4300018: smoothie
+    4300020: sentinel
+    4300022: tuz
+    4300024: vixx
+    4300026: becca
+    4300028: chips
+    4300030: metabee
+    4300032: cheryl
+    4300034: zone
+    4300036: mar
+    4300038: googie
+    4300040: fyrus
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 224e5271d1150264fb13ae5e69b89cd5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
