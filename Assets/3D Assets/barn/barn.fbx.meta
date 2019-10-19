@@ -4,7 +4,33 @@ ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
+    100002: Barn
+    100004: Light A
+    100006: Light B
+    100008: Light C
+    100010: Light D
+    100012: Light E
+    100014: Light F
+    100016: Light G
+    100018: Light H
+    100020: Light I
+    100022: Light J
+    100024: Light K
+    100026: Light L
     400000: //RootNode
+    400002: Barn
+    400004: Light A
+    400006: Light B
+    400008: Light C
+    400010: Light D
+    400012: Light E
+    400014: Light F
+    400016: Light G
+    400018: Light H
+    400020: Light I
+    400022: Light J
+    400024: Light K
+    400026: Light L
     2100000: white accents
     2100002: inside barn
     2100004: roof
@@ -15,8 +41,47 @@ ModelImporter:
     2100014: lamps
     2100016: bulbs
     2300000: //RootNode
+    2300002: Barn
+    2300004: Light A
+    2300006: Light B
+    2300008: Light C
+    2300010: Light D
+    2300012: Light E
+    2300014: Light F
+    2300016: Light G
+    2300018: Light H
+    2300020: Light I
+    2300022: Light J
+    2300024: Light K
+    2300026: Light L
     3300000: //RootNode
+    3300002: Barn
+    3300004: Light A
+    3300006: Light B
+    3300008: Light C
+    3300010: Light D
+    3300012: Light E
+    3300014: Light F
+    3300016: Light G
+    3300018: Light H
+    3300020: Light I
+    3300022: Light J
+    3300024: Light K
+    3300026: Light L
     4300000: Cube.002
+    4300002: Light L
+    4300004: Light K
+    4300006: Light J
+    4300008: Light I
+    4300010: Light H
+    4300012: Light G
+    4300014: Light F
+    4300016: Light E
+    4300018: Light D
+    4300020: Light C
+    4300022: Light A
+    4300024: Light B
+    4300026: Barn
   externalObjects:
   - first:
       type: UnityEngine:Material
