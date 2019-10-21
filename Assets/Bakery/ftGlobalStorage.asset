@@ -422,7 +422,10 @@ MonoBehaviour:
   - Assets/BeerPong/Models/cup.fbx
   - Assets/3D Assets/Truck/icecream truck less crap/gss ice cream truck new.fbx
   - Assets/3D Assets/Truck/V2/gss ice cream truck new.fbx
-  uvOverlapAssetList: 00000000ffffffff010100000101000001010000010100000101000001010000010100000000000000000000000000000000000000000000000000000000000001010000000000000101000001010000
+  - Assets/3D Assets/Ice Cream/chase.fbx
+  - Assets/3D Assets/Spooky/SquidtabaWitch.fbx
+  - Assets/3D Assets/Brush/octobrush.fbx
+  uvOverlapAssetList: 00000000ffffffff010100000101000001010000010100000101000001010000010100000000000000000000000000000000000000000000000000000000000001010000000000000101000001010000010100000000000000000000
   xatlasWarningShown: 0
   renderSettingsBounces: 5
   renderSettingsGISamples: 16
