@@ -425,7 +425,60 @@ MonoBehaviour:
   - Assets/3D Assets/Ice Cream/chase.fbx
   - Assets/3D Assets/Spooky/SquidtabaWitch.fbx
   - Assets/3D Assets/Brush/octobrush.fbx
-  uvOverlapAssetList: 00000000ffffffff010100000101000001010000010100000101000001010000010100000000000000000000000000000000000000000000000000000000000001010000000000000101000001010000010100000000000000000000
+  - Assets/VRCSDK/Examples/Sample Assets/Prototyping/Models/PickupPrototype01x01x01.fbx
+  - Assets/VRCSDK/Examples/Sample Assets/Prototyping/Models/prototype_floor_4x1x4.FBX
+  - Assets/VRCSDK/Examples/Sample Assets/Animation/tpose-new.fbx
+  - Assets/VRCSDK/Examples/Sample Assets/Prototyping/Models/FloorPrototype08x01x08.fbx
+  - Assets/VRCSDK/Examples/Sample Assets/Prototyping/Models/PillarPrototype01x02x01.fbx
+  - Assets/VRCSDK/Examples/Sample Assets/Prototyping/Models/PlatformPrototype02x01x02.fbx
+  - Assets/VRCSDK/Examples/Sample Assets/Prototyping/Models/CubePrototype04x04x04.fbx
+  - Assets/VRCSDK/Examples/Sample Assets/Prototyping/Models/JoinMidPrototype04x06x01.fbx
+  - Assets/VRCSDK/Examples/Sample Assets/Animation/Idle.fbx
+  - Assets/VRCSDK/Examples/Sample Assets/Prototyping/Models/BlockPrototype04x04x04.fbx
+  - Assets/VRCSDK/Examples/Sample Assets/Prototyping/Models/JoinOuterPrototype02x06x02.fbx
+  - Assets/VRCSDK/Examples/Sample Assets/Prototyping/Models/PillarPrototype02x08x02.fbx
+  - Assets/VRCSDK/Examples/Sample Assets/Animation/Walk.fbx
+  - Assets/VRCSDK/Examples/Sample Assets/Animation/Male_Standing_Pose.fbx
+  - Assets/VRCSDK/Examples/Sample Assets/Prototyping/Models/prototype_platform_8x1x8.FBX
+  - Assets/VRCSDK/Examples/Sample Assets/Prototyping/Models/prototype_steps_4x2x2.FBX
+  - Assets/VRCSDK/Examples/Sample Assets/Prototyping/Models/prototype_pickup.fbx
+  - Assets/VRCSDK/Examples/Sample Assets/TutorialAvatar/Vrchat_Tutorial_Avatar.fbx
+  - Assets/VRCSDK/Examples/Sample Assets/Prototyping/Models/prototype_wall_8x8x1.FBX
+  - Assets/VRCSDK/Examples/Sample Assets/Prototyping/Models/RampPrototype04x02x02.fbx
+  - Assets/VRCSDK/Examples/Sample Assets/Prototyping/Models/PlatformPrototype04x01x04.fbx
+  - Assets/VRCSDK/Examples/Sample Assets/Prototyping/Models/CubePrototype08x08x08.fbx
+  - Assets/VRCSDK/Examples/Sample Assets/Prototyping/Models/HousePrototype16x16x24.fbx
+  - Assets/VRCSDK/Examples/Sample Assets/Prototyping/Models/CubePrototype02x02x02.fbx
+  - Assets/VRCSDK/Dependencies/VRChat/Models/damageSphere.fbx
+  - Assets/VRCSDK/Examples/Sample Assets/Prototyping/Models/JoinInnerPrototype01x06x01.fbx
+  - Assets/VRCSDK/Examples/Sample Assets/Prototyping/Models/FloorPrototype64x01x64.fbx
+  - Assets/AmplifyShaderEditor/Examples/Assets/Models/smallwater.fbx
+  - Assets/AmplifyShaderEditor/Examples/Assets/Models/RoundedCube.fbx
+  - Assets/AmplifyShaderEditor/Examples/Community/EnvironmentGradient/TerrainExample.fbx
+  - Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly
+    - Terrain.FBX
+  - Assets/AmplifyShaderEditor/Examples/Assets/Models/Shaderball2.FBX
+  - Assets/AmplifyShaderEditor/Examples/Community/SingleChannelMasking/Masked.fbx
+  - Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly
+    - Fence B.FBX
+  - Assets/AmplifyShaderEditor/Examples/Assets/Models/smallmountain.fbx
+  - Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly
+    - Rock A.FBX
+  - Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly
+    - Rock B.FBX
+  - Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly
+    - FirTree A.FBX
+  - Assets/AmplifyShaderEditor/Examples/Assets/Models/headlow.fbx
+  - Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly
+    - Grass A.FBX
+  - Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly
+    - Grass B.FBX
+  - Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly
+    - Fence A.FBX
+  - Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly
+    - FirTree B.FBX
+  - Assets/AmplifyShaderEditor/Examples/Assets/Models/CalibrationScaleRGB.fbx
+  uvOverlapAssetList: 00000000ffffffff0101000001010000010100000101000001010000010100000101000000000000000000000000000000000000000000000000000000000000010100000000000001010000010100000101000000000000000000000101000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001010000000000000000000000000000000000000000000000000000000000000000000000000000000000000101000001010000000000000000000001010000000000000000000001010000000000000000000000000000010100000000000000000000000000000000000000000000
   xatlasWarningShown: 0
   renderSettingsBounces: 5
   renderSettingsGISamples: 16

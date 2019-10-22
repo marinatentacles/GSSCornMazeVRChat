@@ -104,7 +104,7 @@ Material:
     - _DstBlend: 0
     - _EmissionToDiffuse: 0
     - _GlossMapScale: 1
-    - _Glossiness: 0.199
+    - _Glossiness: 0.403
     - _GlossyReflections: 1
     - _HalftoneDotAmount: 50
     - _HalftoneDotSize: 1.7
