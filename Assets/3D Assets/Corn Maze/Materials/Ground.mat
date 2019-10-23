@@ -124,6 +124,8 @@ Material:
     - _RimThreshold: 0.1
     - _SSDistortion: 1
     - _SSPower: 1
+    - _SSSRange: 1
+    - _SSSSharpness: 0.2
     - _SSScale: 1
     - _Saturation: 1
     - _ScaleWithLight: 1
