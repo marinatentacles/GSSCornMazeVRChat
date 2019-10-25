@@ -481,7 +481,72 @@ MonoBehaviour:
   - Assets/3D Assets/Monkey/WhitePantsMonkey.fbx
   - Assets/Animations/Nervously Look Around.fbx
   - Assets/3D Assets/Shaggy/werewolf shaggy walk.fbx
-  uvOverlapAssetList: 00000000ffffffff0101000001010000010100000101000001010000010100000101000000000000000000000000000000000000000000000000000000000000010100000000000001010000010100000101000000000000000000000101000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001010000000000000000000000000000000000000000000000000000000000000000000000000000000000000101000001010000000000000000000001010000000000000000000001010000000000000000000000000000010100000000000000000000000000000000000000000000000000000000000000000000
+  - Assets/Shaders/AmplifyShaderEditor/Examples/Assets/Models/smallwater.fbx
+  - Assets/Shaders/AmplifyShaderEditor/Examples/Assets/Models/RoundedCube.fbx
+  - Assets/Shaders/AmplifyShaderEditor/Examples/Community/EnvironmentGradient/TerrainExample.fbx
+  - Assets/Shaders/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly
+    - Terrain.FBX
+  - Assets/Shaders/AmplifyShaderEditor/Examples/Assets/Models/Shaderball2.FBX
+  - Assets/Shaders/AmplifyShaderEditor/Examples/Community/SingleChannelMasking/Masked.fbx
+  - Assets/Shaders/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly
+    - Fence B.FBX
+  - Assets/Shaders/AmplifyShaderEditor/Examples/Assets/Models/smallmountain.fbx
+  - Assets/Shaders/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly
+    - Rock A.FBX
+  - Assets/Shaders/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly
+    - Rock B.FBX
+  - Assets/Shaders/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly
+    - FirTree A.FBX
+  - Assets/Shaders/AmplifyShaderEditor/Examples/Assets/Models/headlow.fbx
+  - Assets/Shaders/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly
+    - Grass A.FBX
+  - Assets/Shaders/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly
+    - Grass B.FBX
+  - Assets/Shaders/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly
+    - Fence A.FBX
+  - Assets/Shaders/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly
+    - FirTree B.FBX
+  - Assets/Shaders/AmplifyShaderEditor/Examples/Assets/Models/CalibrationScaleRGB.fbx
+  - Assets/arktoon Shaders/Examples/Objects/mannequin.fbx
+  - Assets/arktoon Shaders/Examples/Objects/cloth-sample.fbx
+  - Assets/arktoon Shaders/Examples/Objects/roundedCube.fbx
+  - Assets/arktoon Shaders/Examples/Objects/HalfSphere.fbx
+  - Assets/Characters/Skeleton/Smoothie Skeleton.fbx
+  - Assets/Animations/Zombie Idle.fbx
+  - Assets/Animations/Zombie Reaction Hit.fbx
+  - Assets/Animations/Thriller Part 1.fbx
+  - Assets/Animations/Thriller Idle.fbx
+  - Assets/Animations/Thriller Part 3.fbx
+  - Assets/Animations/Thriller Part 2.fbx
+  - Assets/Animations/Thriller Part 4.fbx
+  - Assets/Animations/Zombie Anims/zombie kicking (2).fbx
+  - Assets/Animations/Zombie Anims/zombie scratch idle.fbx
+  - Assets/Animations/Zombie Anims/zombie idle.fbx
+  - Assets/Animations/Zombie Anims/zombie kicking.fbx
+  - Assets/Animations/Zombie Anims/walking (2).fbx
+  - Assets/Animations/Zombie Anims/xbot.fbx
+  - Assets/Animations/Zombie Anims/zombie headbutt.fbx
+  - Assets/Animations/Zombie Anims/zombie punching.fbx
+  - Assets/Animations/Zombie Anims/zombie idle (3).fbx
+  - Assets/Animations/Zombie Anims/zombie stand up.fbx
+  - Assets/Animations/Zombie Anims/zombie transition.fbx
+  - Assets/Animations/Zombie Anims/zombie agonizing.fbx
+  - Assets/Animations/Zombie Anims/zombie idle (4).fbx
+  - Assets/Animations/Zombie Anims/zombie transition (2).fbx
+  - Assets/Animations/Zombie Anims/walking.fbx
+  - Assets/Animations/Zombie Anims/zombie reaction hit.fbx
+  - Assets/Animations/Zombie Anims/zombie attack.fbx
+  - Assets/Animations/Zombie Anims/zombie punching (2).fbx
+  - Assets/Animations/Zombie Anims/zombie turn.fbx
+  - Assets/Animations/Zombie Anims/zombie reaction hit (2).fbx
+  - Assets/Animations/Zombie Anims/zombie stumbling.fbx
+  - Assets/Animations/Zombie Anims/zombie running.fbx
+  - Assets/Animations/Zombie Anims/zombie idle (2).fbx
+  - Assets/Animations/Zombie Anims/zombie stand up (3).fbx
+  - Assets/Animations/Zombie Anims/zombie stand up (2).fbx
+  - Assets/Shaders 1/Fake Light/Icosphere.fbx
+  - Assets/Shaders/Fake Light/Icosphere.fbx
+  uvOverlapAssetList: 00000000ffffffff0101000001010000010100000101000001010000010100000101000000000000000000000000000000000000000000000000000000000000010100000000000001010000010100000101000000000000000000000101000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001010000000000000000000000000000000000000000000000000000000000000000000000000000000000000101000001010000000000000000000001010000000000000000000001010000000000000000000000000000010100000000000000000000000000000000000000000000000000000000000000000000010100000101000000000000000000000101000000000000000000000101000000000000000000000000000001010000000000000000000000000000000000000000000000000000010100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffff
   xatlasWarningShown: 0
   renderSettingsBounces: 5
   renderSettingsGISamples: 16
